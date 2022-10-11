@@ -1,0 +1,10 @@
+const a = {
+  name: "Anmol",
+  section: 1,
+  principle: false
+}
+// a=54
+// we cannot change the const variable
+a['Aman'] = "friend" // because we add a objects!!!
+a['name'] = "harry"
+console.log(a)
