@@ -1,0 +1,29 @@
+console.log("Operators in JavaScript");
+let a=55,b=5;
+console.log(" a + b = ", a+b);
+console.log(" a - b = ", a-b);
+console.log(" a * b = ", a*b);
+console.log(" a / b = ", a/b);
+console.log(" a % b = ", a%b);
+console.log(" a ** b = ", a**b);
+console.log();
+
+console.log(" a++ = ", a++); // next tym print (a) increased by 1
+console.log(" a = ", a); // like this upper line 10
+console.log();
+
+console.log(" a-- = ", a--); // next tym print (a) decreased by 1
+console.log(" a = ", a); // like this upper line 13
+console.log();
+
+console.log(" ++a = ", ++a); // first increment (a) by 1
+console.log(" a = ", a);
+console.log();
+
+console.log(" ++a = ", ++a);
+console.log(" a++ = ", a++);
+console.log(" --a = ", --a);
+console.log(" a-- = ", a--);
+console.log(" a = ", a);
+console.log(" a-- = ", a--);
+
